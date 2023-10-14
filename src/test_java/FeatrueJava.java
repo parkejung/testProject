@@ -4,6 +4,7 @@ public class FeatrueJava {
 
 	public void main() {
 		System.out.println("Feature 수정");
+		
 	}
 	
 }
