@@ -1,9 +1,5 @@
 module test_java {
-	
-	
-	
-	
-	
-	
-	
+
+
 }
+
