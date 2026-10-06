@@ -13,4 +13,5 @@ module test_java {
 	//dev test5
 	//dev test6
 	//dev test8
+	//dev test9
 }
